@@ -5,3 +5,4 @@ Atcoder 229に関するコード
 https://atcoder.jp/contests/abc229/tasks
 
 ## 参考記事
+https://kuroro.blog/atcoder/NqZ6HdTbLa6CCY7kyKaW/
